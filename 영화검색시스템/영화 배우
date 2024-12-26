@@ -1,0 +1,125 @@
+--존윅1
+insert into movie values(101, '키아누 리브스','도그스타');
+insert into movie values(102, '윌렘 대포','');
+insert into movie values(103, '이안 맥셰인','Independent Talent Group');
+
+--존윅2
+insert into movie values(104, '로렌스 피시번','CAA');
+insert into movie values(105, '루비 로즈','ICM Partners');
+
+--존윅3
+insert into movie values(106, '할리 베리','CAA');
+insert into movie values(107, '마크 다카스코스','');
+
+--존윅4
+insert into movie values(108, '도니 옌','');
+insert into movie values(109, '빌 스카르스고르드','WME');
+
+--범죄도시1
+insert into movie values(110, '마동석','빅펀치엔터테인먼트');
+insert into movie values(201, '윤계상','저스트엔터테인먼트');
+insert into movie values(202, '조재윤','비에스컴퍼니');
+
+--범죄도시2
+insert into movie values(203, '손석구','샛별당엔터테인먼트');
+insert into movie values(204, '박지환','비에스컴퍼니');
+
+--범죄도시3
+insert into movie values(205, '이준혁','에이스팩토리');
+insert into movie values(206, '김민재','블러썸엔터테인먼트');
+
+--범죄도시4
+insert into movie values(207, '김무열','프레인TPC');
+insert into movie values(208, '이동휘','키이스트');
+
+--트루먼쇼
+insert into movie values(209, '짐 캐리','');
+insert into movie values(210, '로라 리니','Gersh Agency');
+insert into movie values(301, '노아 에머리히','Independent Talent Group');
+
+--나홀로1
+insert into movie values(302, '맥컬리 컬킨','');
+insert into movie values(303, '조 페시','');
+insert into movie values(304, '대니얼 스턴','');
+
+--나홀로2
+insert into movie values(305, '캐서린 오하라','Gersh Agency');
+insert into movie values(306, '팀 커리','');
+
+--타이타닉
+insert into movie values(307, '레오나르도 디카프리오','아피안 웨이 프로덕션');
+insert into movie values(308, '케이트 윈슬렛','United Agents');
+insert into movie values(309, '빌리 제인','');
+
+--라라랜드 (2016)
+insert into movie values(310, '라이언 고슬링','Anonymous Content');
+insert into movie values(401, '엠마 스톤','Anonymous Content');
+insert into movie values(402, 'J.K. 시먼스','Gersh Agency');
+
+--서울의봄 
+insert into movie values(403, '황정민','워크하우스컴퍼니');
+insert into movie values(404, '정우성','아티스트컴퍼니');
+insert into movie values(405, '이성민','호두앤유엔터테인먼트');
+insert into movie values(406, '박해준','엘줄라이엔터테인먼트');
+insert into movie values(407, '김성균','UL엔터테인먼트');
+insert into movie values(408, '정동환','신엔터테인먼트');
+insert into movie values(409, '김의성','씨제스엔터테인먼트');
+insert into movie values(410, '서광재','미스틱스토리');
+insert into movie values(501, '차건우','미스틱스토리');
+insert into movie values(502, '유성주','미스틱스토리');
+
+--해러포터
+insert into movie values(503, '다니엘 래드클리프','United Talent Agency');
+insert into movie values(504, '엠마 왓슨','Untitled Entertainment');
+insert into movie values(505, '루퍼트 그린트','Independent Talent Group');
+
+--신과함께-죄와 벌
+insert into movie values(506, '하정우','워크하우스컴퍼니');
+insert into movie values(507, '차태현','블러썸엔터테인먼트');
+insert into movie values(508, '주지훈','H엔터테인먼트');
+insert into movie values(509, '김향기','나무엑터스');
+insert into movie values(510, '김동욱','키이스트');
+
+
+--월-E (2008)
+insert into movie values(601, '벤 버트','');
+insert into movie values(602, '엘리사 나이트','Pixar 내부 소속');
+insert into movie values(603, '제프 가를린','Independent Artists Agency');
+
+--데드풀과 울버린
+insert into movie values(604, '라이언 레이놀즈','Maximum Effort');
+insert into movie values(605, '휴 잭맨','Creative Artists Agency');
+insert into movie values(606, '모레나 바카린','United Talent Agency');
+
+--살인의 추억 (2003)
+insert into movie values(607, '송강호','써브라임 아티스트 에이전시');
+insert into movie values(608, '김상경','국엔터테인먼트');
+insert into movie values(609, '박해일','씨제스엔터테인먼트');
+
+--겨울왕국 시리즈
+insert into movie values(610, '크리스틴 벨','United Talent Agency');
+insert into movie values(701, '이디나 멘젤','Paradigm Talent Agency');
+
+--모아나2
+insert into movie values(702, '아울리이 크러발리오','Paradigm Talent Agency');
+insert into movie values(703, '드웨인 존슨','Seven Bucks Productions');
+
+--아저씨
+insert into movie values(704, '원빈','이든나인');
+insert into movie values(705, '김새론','골드메달리스트');
+insert into movie values(706, '김희원','프레인TPC');
+
+--부산행
+insert into movie values(707, '공유','매니지먼트 숲');
+insert into movie values(708, '정유미','매니지먼트 숲');
+
+--인터스텔라
+insert into movie values(709, '매튜 매커너히','');
+insert into movie values(710, '앤 해서웨이','');
+insert into movie values(801, '제시카 차스테인','');
+insert into movie values(802, '마이클 케인','');
+
+--쥬만지
+insert into movie values(803, '로빈 윌리엄스','');
+insert into movie values(804, '보니 헌트','');
+insert into movie values(805, '커스틴 던스트','');
