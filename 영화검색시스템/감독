@@ -1,0 +1,25 @@
+--감독 입력
+insert into director values(101, '채드 스타헬스키'); --존윅1,2,3,4 감독
+insert into director values(102, '워쇼스키 형제'); --매트릭스 감독
+insert into director values(103, '강윤성'); --범죄도시1 감독
+insert into director values(104, '이상용'); --범죄도시2,3 감독
+insert into director values(105, '허명행'); --범죄도시4 감독
+insert into director values(106, '피터 위어'); --트루먼쇼 감독
+insert into director values(107, '크리스 콜럼버스'); --나홀로1,2 /해리포터1,2감독
+insert into director values(108, '제임스 카메론'); --타이타닉 감독
+insert into director values(109, '데이미언 셔젤'); --라라랜드 감독
+insert into director values(110, '김성수'); --서울의 봄 감독
+insert into director values(201, '연상호'); --부산행 감독
+insert into director values(202, '알폰소 쿠아론'); --해리포터3 감독
+insert into director values(203, '김용화'); --신과함께1,2 감독
+insert into director values(204, '앤드루 스탠튼'); --월-E 감독
+insert into director values(205, '크리스토퍼 놀란'); --인터스텔라 감독
+insert into director values(206, '조 존스턴'); --쥬만지 감독
+insert into director values(207, '숀 레비'); --데드풀과 울버린 감독
+insert into director values(208, '봉준호'); --살인의 추억 감독
+insert into director values(209, '크리스 벅'); -- 겨울왕국1,2 감독
+insert into director values(210, '제니퍼 리'); --겨울왕국1,2 감독
+insert into director values(301, '데이비드 데릭 주니어'); --모아나2 감독
+insert into director values(302, '데이나 리두 밀러'); --모아나2 감독
+insert into director values(303, '제이슨 핸드'); --모아나2 감독
+insert into director values(304, '이정범'); --아저씨 감독
